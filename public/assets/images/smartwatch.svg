@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" rx="20" fill="#f1f5f9"/>
+  <circle cx="200" cy="140" r="115" fill="#059669" opacity="0.08"/>
+  <path d="M165 50 L175 80 H225 L235 50 Z M175 180 L165 215 H235 L225 180 Z" fill="#94a3b8"/><rect x="140" y="75" width="120" height="115" rx="25" fill="#d1fae5" stroke="#059669" stroke-width="6"/><rect x="155" y="90" width="90" height="85" rx="16" fill="#064e3b"/><path d="M170 135 L190 155 L225 112" fill="none" stroke="#6ee7b7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="bold" fill="#17243b">Pulse Watch S</text>
+</svg>
